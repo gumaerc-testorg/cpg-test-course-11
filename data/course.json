@@ -1,0 +1,28 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "cpg-test-course-11"
+  },
+  "course_image": {
+    "content": "",
+    "website": "cpg-test-course-11"
+  },
+  "course_title": "cpg-test-course-11",
+  "course_description": "",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "cpg-test-course-11"
+  },
+  "learning_resource_types": [],
+  "site_uid": "218e87bb-5855-428a-bf30-51e6e4677ce1"
+}
